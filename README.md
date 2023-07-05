@@ -1,4 +1,4 @@
-## Hi people <3👋
+## Hey developer <3👋
 ### Profissional information 
  * Computer Networks technician ❤
  * Developer Flutter 🖥️
